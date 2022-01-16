@@ -1,4 +1,4 @@
-This project is done by Aseel Sabri_1190114 and Ahmad Abbas_1190245
+This project is done by Ahmad Abbas and Aseel Sabri 
 
 • To run the project, run the Driver.py file in the terminal, 
   the path of the students' list sheet must be entered as an argument
